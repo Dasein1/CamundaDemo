@@ -1,0 +1,8 @@
+org\camunda\bpm\getstarted\loanapproval\controller\ProjectController.class
+org\camunda\bpm\getstarted\loanapproval\controller\ProjectController$1.class
+org\camunda\bpm\getstarted\loanapproval\camunda\process\constant\ProjectProcessConstant.class
+org\camunda\bpm\getstarted\loanapproval\Swagger2.class
+org\camunda\bpm\getstarted\loanapproval\controller\ProjectController$ProjectParticipateRequestRecord.class
+org\camunda\bpm\getstarted\loanapproval\WebappExampleProcessApplication.class
+org\camunda\bpm\getstarted\loanapproval\camunda\tasks\service\SmsServiceTask.class
+org\camunda\bpm\getstarted\loanapproval\controller\ProjectController$UploadExtraInfoRecord.class
